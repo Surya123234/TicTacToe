@@ -1,7 +1,7 @@
 //TicTacToe
 //Created By: Surya Sendhilraj
 //Last Modified: 12/06/2020
-//Allows user to play tic tac toe against the computer with 2 difficulties
+//Allows user to play tic tac toe against the computer with 2 difficulties. Game stats get displayed on the console and in a separate file.
 
 import hsa.Console;
 import java.util.*;
